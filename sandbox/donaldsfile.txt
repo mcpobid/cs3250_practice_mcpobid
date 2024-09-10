@@ -1,2 +1,6 @@
 I am Donald I wrote this on my machine. 
+<<<<<<< HEAD
 This is my own line of text here
+=======
+This is a new line created by Tony 
+>>>>>>> 5ccc472 (modified donalds file)
