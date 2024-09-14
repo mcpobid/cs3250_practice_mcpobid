@@ -2,13 +2,19 @@
 name: User Story
 about: Create a User Story for this project
 title: "[USER-STORY]"
-labels: ''
+labels: 'triage'
 assignees: ''
 
 ---
 
+- Add to the **title** of this issue to briefly identify the user story intent.
+- Modify the following template by replacing the place-holders in square brackets *[like this]* with meaningful content.
+- Then delete this preamble section.
+
+<hr />
+
+
 # User Story
-Modify the following template, replacing [*bracketed text*] with meaningful content.
 
 ## Story
 As a *[stakeholder type]* <br>
@@ -19,21 +25,21 @@ so that *[rationale]*.
 _Choose either rules or scenarios and ensure they are verifiable from the perspective of the stakeholder_
 
 ### Rules
-* _Rule 1_
-* _Rule 2_
-* _Rule 3_
+* _[Rule 1]_
+* _[Rule 2]_
+* _[Rule 3]_
 
 ### Scenario 1
-**Given**  _initial state or conditions_  
-**when**  _event or action_  
-**then**  _specified outcome_  
+**Given**  _[initial state or conditions]_  
+**when**  _[event or action]_  
+**then**  _[specified outcome]_  
 
 
 ## Supporting Information
-_(Relevant information, context, resources, references)_
+_[Relevant information, context, resources, references]_
 
 ## Dependencies
 ### Depends On
-_(Link to other issues on which this story depends)_
+_[Links to other issues on which this story depends]_
 ### Dependents
-_(Link to other issues that depend on this story)_
+_[Links to other issues that depend on this story]_
