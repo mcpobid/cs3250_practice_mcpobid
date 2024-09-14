@@ -2,14 +2,16 @@
 name: Feature request
 about: Suggest an improvement for this project
 title: "[REQUEST] "
-labels: ''
+labels: 'triage'
 assignees: ''
 
 ---
 
-*Change the **title** of this issue to briefly identify the request.*
+- Add to the **title** of this issue to briefly identify the request.
+- Modify the following template by replacing the place-holders in square brackets *[like this]*.
+- Then delete this preamble section.
 
-Modify the following template by replacing the place-holders in square brackets like [*this*].
+<hr />
 
 # Request
 
@@ -20,13 +22,13 @@ Select the *stakeholder_type* requesting the feature:
 - [ ] Maintainer
 
 ## Desired Outcome
-Describe the desired outcome.
+*[Describe the desired outcome.]*
 
 ## Rationale
-Explain why the outcome is desired.
+*[Explain why the outcome is desired.]*
 
 ## Alternatives
-Describe any alternative solutions or features considered.
+*[Describe any alternative solutions or features considered.]*
 
 ## Additional context
-Add any other context, drawings, screenshots, or URLs relevant to the feature request.
+*[Add any other context, drawings, screenshots, or URLs relevant to the feature request.]*
