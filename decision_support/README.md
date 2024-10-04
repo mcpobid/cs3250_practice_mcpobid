@@ -21,9 +21,9 @@ Our application helps decision-makers by leveraging psychometric and mathematica
 
 ### Established Stakeholders
 
-**Decision-Maker** -- An person or group of people who desire assistance in deciding their best option from among multiple alternatives
+**Decision-Maker** -- A person who desires assistance in deciding their best option from among multiple alternatives
 
-**Maintainer** -- A person or group of people with responsibility for updating the product (including fixes and enhancements)
+**Maintainer** -- A person with responsibility for updating the product (including fixes and enhancements)
 
 ### Potential Stakeholders
 
