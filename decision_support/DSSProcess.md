@@ -1,4 +1,4 @@
-# Decision Support System Documentation
+# Decision Support Process and Computations
 
 ## 1. Introduction
 
@@ -90,3 +90,5 @@ Consider designing the system to allow for future upgrades and enhancements, suc
 
 The Decision Support System (DSS) aims to facilitate informed decision-making through structured input and calculations. By allowing pairwise comparisons and weighted scoring, the system provides a reliable method for evaluating multiple alternatives based on a set of defined factors. The DSS is designed to be flexible, customizable, and extensible, enabling further development and user-specific adaptations.
 
+----
+Derived from [Decision Support Process](https://metrocs.github.io/cs3250_practice/DecisionSupportProcess.html) using ChatGPT 4o.
