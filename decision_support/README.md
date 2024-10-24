@@ -28,3 +28,11 @@ Our application helps decision-makers by leveraging psychometric and mathematica
 ### Potential Stakeholders
 
 **SysAdmin** -- A system administrator responsible for installing the product for others' use and keeping it available
+
+----
+## Guides for Decision-Makers
+- [Instructions for Accessing and Running](Access_Run_Instructions.md)
+
+## Guides for Maintainers
+- [Decision Support Process and Computations](DSSProcess.md)
+
