@@ -34,6 +34,7 @@ Our application helps decision-makers by leveraging psychometric and mathematica
 - [Instructions for Accessing and Running](Access_Run_Instructions.md)
 
 ## Guides for Maintainers
+- [Build Instructions](BuildInstructions.md)
 - [Contributing to the Decision Support Project](Contributing.md)
 - [Decision Support Process and Computations](DSSProcess.md)
 
