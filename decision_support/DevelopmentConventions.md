@@ -3,7 +3,7 @@
 This document describes intended and preferred conventions
 for development and maintenance of the Devision Support software product.
 * [Agile Principles](#agile-principles)
-* [Coding Convention Guide](coding-convention-guide)
+* [Coding Convention Guide](#coding-convention-guide)
 
  
 ## Agile Principles
@@ -61,4 +61,4 @@ If a topic is not covered by any guides, use best judgement and consider opening
 ### Project-Specific Conventions
 
 - Multiple authors are indicated using multiple @author tags, one tag per line, one author per tag.
-- Style conventions are embodied in [jp_checks.xml](/lib/jp_checks.xml) and [jp_suppressions.xml](/lib/jp_suppressions.xml) configuration files for [Checkstyle](https://checkstyle.sourceforge.io).
+- Style conventions are embodied in [jp_checks.xml](lib/jp_checks.xml) and [jp_suppressions.xml](lib/jp_suppressions.xml) configuration files for [Checkstyle](https://checkstyle.sourceforge.io).
